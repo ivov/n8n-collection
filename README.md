@@ -10,7 +10,7 @@ Collection of my projects for the n8n community:
 - [`n8n-validate-pull-request-title`](https://github.com/ivov/validate-n8n-pull-request-title) - GitHub action for n8n PR titles
 - [`n8n-deploy-starter`](https://github.com/ivov/n8n-deploy-starter) - Toolkit for deploying n8n to a cloud provider
 - [`n8n-utils`](https://github.com/ivov/n8n-utils) - VSCode extension for developing on the n8n codebase 
-- [`n8n-shortlinks`](https://github.com/ivov/n8n-shortlink) - Shortlinks for sharing n8n workflows and URLs
+- [`n8n-shortlink`](https://github.com/ivov/n8n-shortlink) - Shortlinks for sharing n8n workflows and URLs
 
 ## Deprecated 
 
